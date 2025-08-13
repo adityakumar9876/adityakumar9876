@@ -50,19 +50,6 @@
   </a>
 </p>
 
-## 🔄 Automatically Updated Metrics
-
-| Metric | Value | Badge |
-|--------|-------|-------|
-| **Total Commits (2025)** | ![Commits](https://img.shields.io/github/commit-activity/y/adityakumar9876/adityakumar9876?color=blue&label=COMMITS&style=flat) | 📅 |
-| **Total Contributions** | ![Contributions](https://badges.pufler.dev/contributions/all/adityakumar9876?color=purple&label=TOTAL&style=flat) | 🏆 |
-| **Current Streak** | ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityakumar9876&theme=radical&hide_border=true) | 🔥 |
-| **Repository Views** | ![Profile Views](https://komarev.com/ghpvc/?username=adityakumar9876&label=PROFILE+VIEWS&color=blueviolet&style=flat) | 👀 |
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adityakumar9876&theme=radical&hide_border=true" alt="Coding Time" width="60%"/>
-</p>
-
 ---
 
 
