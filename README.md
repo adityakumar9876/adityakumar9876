@@ -62,8 +62,6 @@ graph TD
     K --> L
 ```
 
-### 📊 Weekly Coding Rhythm
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=adityakumar9876&layout=compact&theme=radical&border_color=7E3ACE&title_color=7E3ACE&text_color=FFFFFF&bg_color=0D1117&range=last_7_days)
 
 </div>
 
